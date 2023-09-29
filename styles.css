@@ -11,9 +11,7 @@
   --font-color: #ffffff;
 }
 
-body {
-  overflow: hidden;
-}
+
 
 main::after {
   content: "";
