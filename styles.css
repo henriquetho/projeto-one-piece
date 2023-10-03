@@ -11,8 +11,6 @@
   --font-color: #ffffff;
 }
 
-
-
 main::after {
   content: "";
   position: fixed;
@@ -86,12 +84,12 @@ main .character .image {
   width: 18rem;
   justify-content: center;
   align-items: center;
-  gap: 1rem;
+  gap: 2rem;
   background-color: rgba(0, 0, 0, 0.3);
 }
 
 .buttons .button {
-  background: none;
+  background: #000000;
   border: none;
   cursor: pointer;
   border-radius: 50%;
