@@ -1,6 +1,6 @@
 # Projeto One Piece ☠️
 
-Durante a "Semana do zero ao programador contratado", evento emocionante realizado pela @devemdobro de 25 de setembro a 01 de outubro de 2023, tive a oportunidade de participar de um projeto incrível chamado "One Piece". Este projeto foi uma experiência única, onde mergulhamos de cabeça no mundo do desenvolvimento web, utilizando HTML, CSS e JavaScript para criar algo verdadeiramente especial.
+Durante a "Semana do zero ao programador contratado", evento emocionante realizado pela Devemdobro de 25 de setembro a 01 de outubro de 2023, tive a oportunidade de participar de um projeto incrível chamado "One Piece". Este projeto foi uma experiência única, onde mergulhamos de cabeça no mundo do desenvolvimento web, utilizando HTML, CSS e JavaScript para criar algo verdadeiramente especial.
 
 O projeto "One Piece" foi inspirado na famosa série de anime e mangá, que é adorada por milhões de fãs em todo o mundo. Nosso objetivo era criar uma página da web interativa que trouxesse um pedacinho desse universo para a internet, permitindo aos fãs explorar e aprender mais sobre seus personagens favoritos.
 
